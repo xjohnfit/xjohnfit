@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm John Rocha</h1>
+<h1 align="center">Hey 👋 I'm John Winchester</h1>
 <h3 align="center">💻 Full Stack Developer | 🚀 DevOps Enthusiast | 🧠 Lifelong Learner</h3>
 
 <p align="center">
@@ -9,11 +9,11 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently building **[Upscale Banking](https://upscalebanking.codewithxjohn.com)** — a fintech experience for modern users  
+- 🔭 Currently building **[FitVerse](https://fitverse.codewithxjohn.com/)** — a all-in-one fitness app  
 - 🌱 Learning **Swift** for iOS app development  
 - 👨‍💻 Check out my work at [codewithxjohn.com](https://codewithxjohn.com)  
 - 💬 Ask me about **MERN Stack, Next.js, DevOps with Jenkins & Kubernetes**  
-- ⚡ Fun fact: I'm creating a fitness iOS app to track & optimize workout routines  
+- ⚡ Fun fact: I'm creating a FitVerse iOS app version to track & optimize workout routines and meal plan, AI integrated  
 - 📫 Reach me at: **xjohnfitcodes@gmail.com**
 
 ---
