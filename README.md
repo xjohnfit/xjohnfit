@@ -102,7 +102,7 @@ const john = {
 ## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xjohnfit&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" />
+  <img src="https://github-profile-trophy.vercel.app/?username=xjohnfit&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
 </div>
 
 ---
