@@ -29,7 +29,7 @@ const john = {
   stack:     ["MERN", "Next.js", "TypeScript", "Kubernetes", "Jenkins"],
   portfolio: "https://codewithxjohn.com",
   contact:   "xjohnfitcodes@gmail.com",
-  funFact:   "I'm shipping a FitVerse iOS app with AI-driven workout & meal planning",
+  funFact:   "Shipping a FitVerse iOS app with AI-driven workout & meal planning",
 };
 ```
 
@@ -38,7 +38,7 @@ const john = {
 ## 🚀 Featured Project
 
 <a href="https://fitverse.codewithxjohn.com/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xjohnfit&repo=mern-fit-verse&theme=tokyonight&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xjohnfit&repo=fitverse&theme=tokyonight&hide_border=true" />
 </a>
 
 **[FitVerse](https://fitverse.codewithxjohn.com/)** — An all-in-one fitness platform with AI-integrated workout tracking, meal planning, and personal analytics. A native iOS version is in active development using Swift.
@@ -113,6 +113,20 @@ const john = {
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xjohnfit&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+> **Setup required:** Add [`snake.yml`](.github/workflows/snake.yml) to your profile repo and run it once from the Actions tab. The snake will appear here and auto-update daily.
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xjohnfit/xjohnfit/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xjohnfit/xjohnfit/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/xjohnfit/xjohnfit/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
