@@ -38,7 +38,7 @@ const john = {
 ## 🚀 Featured Project
 
 <a href="https://fitverse.codewithxjohn.com/">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xjohnfit&repo=fitverse&theme=tokyonight&hide_border=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=xjohnfit&repo=mern-fit-verse&theme=tokyonight&hide_border=true" />
 </a>
 
 **[FitVerse](https://fitverse.codewithxjohn.com/)** — An all-in-one fitness platform with AI-integrated workout tracking, meal planning, and personal analytics. A native iOS version is in active development using Swift.
