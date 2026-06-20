@@ -117,8 +117,6 @@ const john = {
 
 ## 🐍 Contribution Snake
 
-> **Setup required:** Add [`snake.yml`](.github/workflows/snake.yml) to your profile repo and run it once from the Actions tab. The snake will appear here and auto-update daily.
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xjohnfit/xjohnfit/output/github-snake-dark.svg" />
